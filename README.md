@@ -34,5 +34,7 @@ Learn More
 For more information:
 
 [Next.js](https://nextjs.org) Documentation - Learn about features and API.
+
 [Kubernetes](https://kubernetes.io/) Documentation - Explore Kubernetes deployment options.
+
 [Helm](https://helm.sh/) Documentation - Learn how to manage your Kubernetes deployments.      
